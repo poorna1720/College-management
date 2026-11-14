@@ -1,0 +1,9 @@
+style.css
+body {
+font-family: Arial;
+margin: 30px;
+}
+input, button {
+padding: 8px;
+margin: 5px;
+}
